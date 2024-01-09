@@ -58,19 +58,3 @@ jobs:
           body: new release for blah blah
           draft: false
           prerelease: false
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
